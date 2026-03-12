@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ConsoleApplication1.cpp
+C:\Users\hunte\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hunte\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hunte\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\hunte\source\repos\ConsoleApplication1\x64\Debug\Bbpm_calculator.exe
